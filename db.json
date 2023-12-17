@@ -1,0 +1,32 @@
+{
+  "restaurants": [
+    {
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "name": "Example Restaurant 1",
+      "id": 1,
+      "rating": 4
+    },
+    {
+      "latitude": 37.7837,
+      "longitude": -122.4089,
+      "name": "Example Restaurant 2",
+      "id": 2,
+      "rating": 3
+    },
+    {
+      "latitude": 37.7955,
+      "longitude": -122.3933,
+      "name": "Example Restaurant 3",
+      "id": 3,
+      "rating": 5
+    },
+    {
+      "latitude": 37.8070,
+      "longitude": -122.4177,
+      "name": "Example Restaurant 4",
+      "id": 4,
+      "rating": 4
+    }
+  ]
+}
